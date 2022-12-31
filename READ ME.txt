@@ -1,0 +1,12 @@
+Valorant Chair ##BETA##
+
+---------------------
+how to use:
+1.Disable Virus Protection (Or Windows Defender Will Automatically Delete Files)
+2. Unzip Rar
+3. Run Percs Spoofer (wait 20-30 seconeds to prooceed)
+4. Open Valorant and wait till you get into lobby
+5. Drag "Axeprime.DLL" into Percs injector
+6.Config to your desire
+7. Enjoy Cheating on Valorant!
+
